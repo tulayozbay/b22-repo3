@@ -1,0 +1,5 @@
+we just published our loca git repo 
+to remote GitHub.com repostory
+Few thing happned :
+1. It automatically created new Remote Repo
+	under your
